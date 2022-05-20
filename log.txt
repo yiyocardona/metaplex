@@ -5,3 +5,5 @@ pubkey: 6Ucb54vmh22K2kQU78kuFJsGNB96MKRcK2vqJGut2Ki5
 Save this seed phrase and your BIP39 passphrase to recover your new keypair:
 kit siren firm hurry carpet tell joy gas meadow rebel limb cricket
 ==================================================================
+
+l
