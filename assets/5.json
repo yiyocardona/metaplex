@@ -1,0 +1,22 @@
+{
+  "name": "aod_test #6",
+  "symbol": "aod",
+  "image": "5.png",
+  "properties": {
+    "files": [{ "uri": "5.png", "type": "image/png" }],
+    "category": "image",
+    "creators": [{
+      "address": "6cPybPa2F3dzj8z2rQWs3PQgrr4ejbC38jeggMGHMbAd",
+      "share": 100
+    }]
+  },
+  "description": "",
+  "seller_fee_basis_points": 500,
+  "attributes": [
+    { "trait_type": "background", "value": "purple" },
+    { "trait_type": "eyes", "value": "circle-eyes" },
+    { "trait_type": "mouth", "value": "beard-mouth" },
+    { "trait_type": "face", "value": "blue-face" }
+  ],
+  "collection": {}
+}

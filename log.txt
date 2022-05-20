@@ -5,3 +5,9 @@ pubkey: 6cPybPa2F3dzj8z2rQWs3PQgrr4ejbC38jeggMGHMbAd
 Save this seed phrase and your BIP39 passphrase to recover your new keypair:
 diet only artwork enough elder offer ladder addict submit series short emerge
 =============================================================================
+
+npx ts-node "C:\Users\yiyo cardona\Documents\GitHub\metaplex\metaplex\js\packages\cli\src\candy-machine-v2-cli.ts" upload -e devnet -k keypair.json -cp config.json ./assets
+
+
+initializing candy machine
+Candy machine address:  kkpA6QEd8C9wfnMr16gnmidtX8ZWCbxSDtQg6NnufeP
