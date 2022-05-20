@@ -1,9 +1,7 @@
-Wrote new keypair to ./keypar.json
-==================================================================
-pubkey: 6Ucb54vmh22K2kQU78kuFJsGNB96MKRcK2vqJGut2Ki5
-==================================================================
+Wrote new keypair to keypair.json
+=============================================================================
+pubkey: 6cPybPa2F3dzj8z2rQWs3PQgrr4ejbC38jeggMGHMbAd
+=============================================================================
 Save this seed phrase and your BIP39 passphrase to recover your new keypair:
-kit siren firm hurry carpet tell joy gas meadow rebel limb cricket
-==================================================================
-
-l
+diet only artwork enough elder offer ladder addict submit series short emerge
+=============================================================================
